@@ -25,7 +25,7 @@ Yazılım ayarlarında öncelikle kameranın aktif edilmesi için DCMI ayarları
 
 STM32H747 serisi mikrodenetleyicilerde M7 ve M4 olmak üzere 2 adet çekirdek bulunmakta. Debuging için bu bazı ayarların yapılması gerekmekte. Linkleri adımları izleyerek debuging işlemi gerçekleştirilebilir.
 
-[Debuging için kullanılan kaynak. ](https://www.st.com/resource/en/application_note/an5020-introduction-to-digital-camera-interface-dcmi-for-stm32-mcus-stmicroelectronics.pdf)
+[Debuging için kullanılan kaynak. ](https://www.elektrobot.net/stm32h7-ile-cift-cekirdek-debug-islemi/#:~:text=STM32H7%20i%C3%A7in%20Debug%20%C4%B0%C5%9Flemi&text=Bunun%20i%C3%A7in%20yine%20Debug%20Configuration,main%20sayfas%C4%B1n%C4%B1n%20ba%C5%9F%C4%B1nda%20beklemeye%20ba%C5%9Flayacakt%C4%B1r.)
 
 ## ÇIKABİLECEK OLASI PROBLEMLER
 - Su sayacında rakamlar değişirlen ara noktada rakamın algılanamaması.
